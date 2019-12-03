@@ -8,8 +8,5 @@ beforeAll(function()
 	
 	afterAll(function()
 			   {
-
 			  browser.quit();
-			  
-
 			   });
