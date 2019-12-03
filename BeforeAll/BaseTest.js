@@ -1,6 +1,3 @@
-
-
-
 beforeAll(function()
 			{
 
