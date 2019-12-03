@@ -3,7 +3,6 @@ beforeAll(function(){
 	});
 
 describe("Describe 1",function(){
-	
 	beforeAll(function(){
 		console.log("Before All");
 	});
